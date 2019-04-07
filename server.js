@@ -1,1 +1,1 @@
-alert('This works fine');
+console.log('This works fine');
